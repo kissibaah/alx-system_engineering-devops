@@ -2,7 +2,7 @@
 """
 Exports to-do list information of all employees to JSON format.
 
-This is a script that fetches the user information and to-do lists for all employees
+Script fetches the user information and to-do lists for all employees
 from the JSONPlaceholder API and exports the data to a JSON file.
 """
 

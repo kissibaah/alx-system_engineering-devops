@@ -2,7 +2,7 @@
 """
 Exports to-do list information for a given employee ID to JSON format.
 
-This is a script that takes an employee ID as a command-line argument and exports
+Script takes an employee ID as a command-line argument and exports
 the corresponding user information and to-do list to a JSON file.
 """
 
