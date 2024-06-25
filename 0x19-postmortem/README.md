@@ -1,4 +1,4 @@
-On June 16, 2023, our web application experienced an outage that lasted for approximately 2 hours. The outage was caused by a server issue that resulted in the application being unavailable to users. The impact of the outage was significant, with many users unable to access critical functionality of the application during the outage.
+On June 25, 2023, our web application experienced an outage that lasted for approximately 2 hours. The outage was caused by a server issue that resulted in the application being unavailable to users. The impact of the outage was significant, with many users unable to access critical functionality of the application during the outage.
 
 Timeline
 3:00 PM - A server issue is detected, causing the application to become unavailable to users.
