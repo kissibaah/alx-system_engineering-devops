@@ -1,10 +1,9 @@
 #!/usr/bin/python3
 """
 A script that queries subscribers on a given Reddit subreddit.
-
 """
 
-import requests
+import requests # type: ignore
 
 
 def number_of_subscribers(subreddit):

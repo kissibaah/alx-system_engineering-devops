@@ -1,9 +1,8 @@
 #!/usr/bin/python3
 """
  A fnction to count words in all hot posts of a given Reddit subreddit.
- 
 """
-import requests
+import requests # type: ignore
 
 
 def count_words(subreddit, word_list, after=None, counts={}):
